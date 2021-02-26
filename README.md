@@ -53,3 +53,9 @@ Jiang, Yunwen and Zeng, Hui and Kang, Xiangui and Liu, Li, “The game of counte
 Zeng, Hui and Yu, Jingjing and Kang, Xiangui and Lyu, Siwei, “Countering JPEG anti-forensics based on noise level estimation”, Science China Information Sciences, 61(3): 032103, 2018
 
 Zeng, Hui and Kang, Xiangui and Peng, Anjie, “A multi-purpose countermeasure against image anti-forensics using autoregressive model”, Neurocomputing, 189: 117-122, 2016
+
+
+## Activity
+### In AI security Challenge, we won the 2nd price in track I, and the 34th price in track II 
+
+https://tianchi.aliyun.com/competition/entrance/531812/rankingList/0
