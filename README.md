@@ -56,6 +56,6 @@ Zeng, Hui and Kang, Xiangui and Peng, Anjie, “A multi-purpose countermeasure a
 
 
 ## Activity
-### In AI security Challenge, we won the 2nd price in track I, and the 34th price in track II 
+### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II 
 
 https://tianchi.aliyun.com/competition/entrance/531812/rankingList/0
