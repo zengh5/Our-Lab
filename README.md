@@ -26,7 +26,9 @@ Zeng, Hui, Peng, Anjie, and Lin, Xiaodan, “Exposing Image splicing with incons
 ### 1.3 Image processing history analysis
 Morteza Darvish Morshedi Hosseini, Miroslav Goljan, and Hui Zeng, Semi-Blind Image Resampling Factor Estimation for PRNU Computation, EI2020
 
-Hui Zeng, Morteza Darvish Morshedi Hosseini, and Miroslav Goljan, Replacing DWT with DTCWT in blind image rotation angle estimation, EI2021
+Hui Zeng, Morteza Darvish Morshedi Hosseini, and Miroslav Goljan, Replacing DWT with DTCWT in blind image rotation angle estimation, EI2021  
+
+Kun Yu, Rongsong Yang, Hui Zeng, and Anjie Peng, "Joint estimation of image rotation angle and scaling factor", APSIPA2021
 
 
 ### 1.4 Shooting parameter estimation
@@ -58,6 +60,11 @@ Jiang, Yunwen and Zeng, Hui and Kang, Xiangui and Liu, Li, “The game of counte
 Zeng, Hui and Yu, Jingjing and Kang, Xiangui and Lyu, Siwei, “Countering JPEG anti-forensics based on noise level estimation”, Science China Information Sciences, 61(3): 032103, 2018
 
 Zeng, Hui and Kang, Xiangui and Peng, Anjie, “A multi-purpose countermeasure against image anti-forensics using autoregressive model”, Neurocomputing, 189: 117-122, 2016
+
+
+## 3 Adversarial examples detection  
+
+Kang Deng, Anjie Peng, Hui Zeng, "Detecting C&W adversarial images based on noise addition-then-denoising," ICIP2021, pp.3607-3611  
 
 
 ## Activity
