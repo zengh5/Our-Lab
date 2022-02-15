@@ -3,7 +3,7 @@
 ## Interest
 Video/image forensics, Game theory, adversarial sample detection
 
-https://scholar.google.ca/citations?user=D4XNia4AAAAJ   H-index:8
+https://scholar.google.ca/citations?user=D4XNia4AAAAJ   H-index: 9
 
 ## Publication List
 
@@ -62,9 +62,11 @@ Zeng, Hui and Yu, Jingjing and Kang, Xiangui and Lyu, Siwei, “Countering JPEG 
 Zeng, Hui and Kang, Xiangui and Peng, Anjie, “A multi-purpose countermeasure against image anti-forensics using autoregressive model”, Neurocomputing, 189: 117-122, 2016
 
 
-## 3 Adversarial examples detection  
+## 3 Adversarial examples generation/detection  
 
-Kang Deng, Anjie Peng, Hui Zeng, "Detecting C&W adversarial images based on noise addition-then-denoising," ICIP2021, pp.3607-3611  
+Kang Deng, Anjie Peng, Hui Zeng, "Detecting C&W adversarial images based on noise addition-then-denoising," ICIP2021, pp.3607-3611 
+
+Hui Zeng, Kang Deng, Biwei Chen, Anjie Peng, "How secure are the adversarial examples themselves?" ICASSP2022 
 
 
 ## Activity
