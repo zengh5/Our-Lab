@@ -64,9 +64,11 @@ Zeng, Hui and Kang, Xiangui and Peng, Anjie, “A multi-purpose countermeasure a
 
 ## 3 Adversarial examples generation/detection  
 
+A. Peng, K. Deng, J. Zhang, Shenghai Luo，Hui Zeng，Wenxin Yu, “Gradient-based adversarial image forensics,” the 27th International Conference on Neural Information Processing, pp. 417–428, 2020 
+
 Kang Deng, Anjie Peng, Hui Zeng, "Detecting C&W adversarial images based on noise addition-then-denoising," ICIP2021, pp.3607-3611 
 
-Hui Zeng, Kang Deng, Biwei Chen, Anjie Peng, "How secure are the adversarial examples themselves?" ICASSP2022 
+Hui Zeng, Kang Deng, Biwei Chen, Anjie Peng, "How secure are the adversarial examples themselves?" To appear in ICASSP2022 
 
 
 ## Activity
