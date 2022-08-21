@@ -68,7 +68,9 @@ A. Peng, K. Deng, J. Zhang, Shenghai Luo，Hui Zeng，Wenxin Yu, “Gradient-bas
 
 Kang Deng, Anjie Peng, Hui Zeng, "Detecting C&W adversarial images based on noise addition-then-denoising," ICIP2021, pp.3607-3611 
 
-Hui Zeng, Kang Deng, Biwei Chen, Anjie Peng, "How secure are the adversarial examples themselves?" To appear in ICASSP2022 
+Hui Zeng, Kang Deng, Biwei Chen, Anjie Peng, "How secure are the adversarial examples themselves?" 2022ICASSP, pp. 2879-2883
+
+Zhi Lin, Anjie Peng, Rong Wei, Wenxin Yu, Hui Zeng, "An enhanced transferable adversarial attack of scale-invariant methods," to appear in 2022ICIP
 
 
 ## Activity
