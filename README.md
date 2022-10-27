@@ -72,6 +72,9 @@ Hui Zeng, Kang Deng, Biwei Chen, Anjie Peng, "How secure are the adversarial exa
 
 Zhi Lin, Anjie Peng, Rong Wei, Wenxin Yu, Hui Zeng, "An enhanced transferable adversarial attack of scale-invariant methods," to appear in 2022ICIP
 
+Anjie Peng, Chenggang Li, Ping Zhu, Xiaofang Huang, Hui Zeng and Wenxin Yu, "Countering the Anti-detection Adversarial Attacks", to appear in 2022ICONIP
+
+Anjie Peng, Chenggang Li, Ping Zhu, Zhiyuan Wu, Kun Wang, Hui Zeng and Wenxin Yu, "Effect of Image Down-sampling on Detection of Adversarial Examples", to appear in 2022ICONIP
 
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II 
