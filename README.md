@@ -3,7 +3,7 @@
 ## Interest
 Video/image forensics, Game theory, adversarial sample detection
 
-https://scholar.google.ca/citations?user=D4XNia4AAAAJ   H-index: 9
+https://scholar.google.ca/citations?user=D4XNia4AAAAJ   H-index: 10
 
 ## Publication List
 
