@@ -30,8 +30,7 @@ Hui Zeng, Morteza Darvish Morshedi Hosseini, and Miroslav Goljan, Replacing DWT 
 
 Kun Yu, Rongsong Yang, Hui Zeng, and Anjie Peng, "Joint estimation of image rotation angle and scaling factor", APSIPA2021, pp. 1716—1721.
 
-Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," to appear in ICASSP2023. [pdf]
-(https://ieeexplore.ieee.org/document/10095317/)
+Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," to appear in ICASSP2023. [pdf](https://ieeexplore.ieee.org/document/10095317/)
 
 ### 1.4 Shooting parameter estimation
 Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics, IWDW2020, Melbourne (online) 2020.11.25-27
