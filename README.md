@@ -14,7 +14,7 @@ Zeng, Hui and Kang, Xiangui, “Fast source camera identification using content 
 
 Zeng, Hui and Peng, Anjie and Lin, Xiaodan and Luo, Shenghai, “Source smartphone identification for digital zoomed images”, Proceedings of the ACM Turing Celebration Conference-China, pp. 1—6, 2019, ACM
 
-Zeng, Hui and Wan, Yongcai and Deng, Kang and Peng, Anjie, “Source Camera Identification with Dual-Tree Complex Wavelet Transform” IEEE Access, 8: 18874—18883
+Zeng, Hui and Wan, Yongcai and Deng, Kang and Peng, Anjie, “Source Camera Identification with Dual-Tree Complex Wavelet Transform” IEEE Access, 8: 18874—18883 [pdf](https://ieeexplore.ieee.org/document/8966247)
 
 
 ### 1.2 Noise based splicing localization
