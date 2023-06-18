@@ -30,8 +30,8 @@ Hui Zeng, Morteza Darvish Morshedi Hosseini, and Miroslav Goljan, Replacing DWT 
 
 Kun Yu, Rongsong Yang, Hui Zeng, and Anjie Peng, "Joint estimation of image rotation angle and scaling factor", APSIPA2021, pp. 1716—1721.
 
-Kun Yu, M. D. M. Hosseini, Anjie Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," to appear in ICASSP2023. [pdf]
-(Paper: https://ieeexplore.ieee.org/document/10095317/)
+Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," to appear in ICASSP2023. [pdf]
+(https://ieeexplore.ieee.org/document/10095317/)
 
 ### 1.4 Shooting parameter estimation
 Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics, IWDW2020, Melbourne (online) 2020.11.25-27
@@ -78,7 +78,7 @@ Anjie Peng, Chenggang Li, Ping Zhu, Xiaofang Huang, Hui Zeng and Wenxin Yu, "Cou
 
 Anjie Peng, Chenggang Li, Ping Zhu, Zhiyuan Wu, Kun Wang, Hui Zeng and Wenxin Yu, "Effect of Image Down-sampling on Detection of Adversarial Examples", to appear in 2022ICONIP
 
-Zhi Lin, Anjie Peng, Hui Zeng, et al. "Boosting transferability of adversarial example via an enhanced EULER's method," to appear in ICASSP2023
+Zhi Lin, Anjie Peng, Hui Zeng, et al. "Boosting transferability of adversarial example via an enhanced EULER's method," to appear in ICASSP2023 [pdf](https://ieeexplore.ieee.org/document/10096558/)
 
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II 
