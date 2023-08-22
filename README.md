@@ -83,6 +83,8 @@ Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Baye
 
 Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
 
+Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
+
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II 
 
