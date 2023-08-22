@@ -30,7 +30,7 @@ Hui Zeng, Morteza Darvish Morshedi Hosseini, and Miroslav Goljan, Replacing DWT 
 
 Kun Yu, Rongsong Yang, Hui Zeng, and Anjie Peng, "Joint estimation of image rotation angle and scaling factor", APSIPA2021, pp. 1716—1721.
 
-Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," to appear in ICASSP2023. [pdf](https://ieeexplore.ieee.org/document/10095317/)
+Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," 2023ICASSP2023. doi: 10.1109/ICASSP49357.2023.10095317 [pdf](https://ieeexplore.ieee.org/document/10095317/)
 
 ### 1.4 Shooting parameter estimation
 Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics, IWDW2020, Melbourne (online) 2020.11.25-27
@@ -73,11 +73,13 @@ Hui Zeng, Kang Deng, Biwei Chen, Anjie Peng, "How secure are the adversarial exa
 
 Zhi Lin, Anjie Peng, Rong Wei, Wenxin Yu, Hui Zeng, "An enhanced transferable adversarial attack of scale-invariant methods," 2022 IEEE International Conference on Image Processing (ICIP), pp. 3788-3792. [pdf](https://ieeexplore.ieee.org/document/9897429/)
 
-Anjie Peng, Chenggang Li, Ping Zhu, Xiaofang Huang, Hui Zeng and Wenxin Yu, "Countering the Anti-detection Adversarial Attacks", to appear in 2022ICONIP
+Anjie Peng, Chenggang Li, Ping Zhu, Xiaofang Huang, Hui Zeng and Wenxin Yu, "Countering the Anti-detection Adversarial Attacks", 2022ICONIP, https://doi.org/10.1007/978-981-99-1639-9_41
 
-Anjie Peng, Chenggang Li, Ping Zhu, Zhiyuan Wu, Kun Wang, Hui Zeng and Wenxin Yu, "Effect of Image Down-sampling on Detection of Adversarial Examples", to appear in 2022ICONIP
+Anjie Peng, Chenggang Li, Ping Zhu, Zhiyuan Wu, Kun Wang, Hui Zeng and Wenxin Yu, "Effect of Image Down-sampling on Detection of Adversarial Examples", 2022ICONIP, https://doi.org/10.1007/978-981-99-1639-9_46
 
-Zhi Lin, Anjie Peng, Hui Zeng, et al. "Boosting transferability of adversarial example via an enhanced EULER's method," to appear in ICASSP2023 [pdf](https://ieeexplore.ieee.org/document/10096558/)
+Zhi Lin, Anjie Peng, Hui Zeng, et al. "Boosting transferability of adversarial example via an enhanced EULER's method," 2023ICASSP, doi: 10.1109/ICASSP49357.2023.10096558 [pdf](https://ieeexplore.ieee.org/document/10096558/)
+
+Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Bayesian game' to appear in 2022 IEEE International Conference on Image Processing (ICIP).
 
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II 
