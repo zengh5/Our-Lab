@@ -79,7 +79,9 @@ Anjie Peng, Chenggang Li, Ping Zhu, Zhiyuan Wu, Kun Wang, Hui Zeng and Wenxin Yu
 
 Zhi Lin, Anjie Peng, Hui Zeng, et al. "Boosting transferability of adversarial example via an enhanced EULER's method," 2023ICASSP, doi: 10.1109/ICASSP49357.2023.10096558 [pdf](https://ieeexplore.ieee.org/document/10096558/)
 
-Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Bayesian game' to appear in 2022 IEEE International Conference on Image Processing (ICIP).
+Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Bayesian game,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
+
+Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
 
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II 
