@@ -14,7 +14,7 @@ Zeng, Hui and Kang, Xiangui, “Fast source camera identification using content 
 
 Zeng, Hui and Peng, Anjie and Lin, Xiaodan and Luo, Shenghai, “Source smartphone identification for digital zoomed images”, Proceedings of the ACM Turing Celebration Conference-China, pp. 1—6, 2019, ACM
 
-Zeng, Hui and Wan, Yongcai and Deng, Kang and Peng, Anjie, “Source Camera Identification with Dual-Tree Complex Wavelet Transform” IEEE Access, 8: 18874—18883 [pdf](https://ieeexplore.ieee.org/document/8966247)
+Zeng, Hui and Wan, Yongcai and Deng, Kang and Peng, Anjie, “Source Camera Identification with Dual-Tree Complex Wavelet Transform” IEEE Access, 8: 18874—18883 [pdf](https://ieeexplore.ieee.org/document/8966247) [code-Matlab](https://github.com/zengh5/SCI_DTCWT) [code-Python](https://github.com/zengh5/SCI_DTCWT_python)
 
 
 ### 1.2 Noise based splicing localization
@@ -30,7 +30,7 @@ Hui Zeng, Morteza Darvish Morshedi Hosseini, and Miroslav Goljan, Replacing DWT 
 
 Kun Yu, Rongsong Yang, Hui Zeng, and Anjie Peng, "Joint estimation of image rotation angle and scaling factor", APSIPA2021, pp. 1716—1721.
 
-Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," 2023ICASSP2023. doi: 10.1109/ICASSP49357.2023.10095317 [pdf](https://ieeexplore.ieee.org/document/10095317/)
+Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," 2023ICASSP2023. doi: 10.1109/ICASSP49357.2023.10095317 [pdf](https://ieeexplore.ieee.org/document/10095317/) [code](https://github.com/zengh5/Rotation_angle_estimation_harmonic)
 
 ### 1.4 Shooting parameter estimation
 Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics, IWDW2020, Melbourne (online) 2020.11.25-27
@@ -69,7 +69,7 @@ A. Peng, K. Deng, J. Zhang, Shenghai Luo，Hui Zeng，Wenxin Yu, “Gradient-bas
 
 Kang Deng, Anjie Peng, Hui Zeng, "Detecting C&W adversarial images based on noise addition-then-denoising," ICIP2021, pp.3607-3611 [pdf](https://ieeexplore.ieee.org/document/9506804/)
 
-Hui Zeng, Kang Deng, Biwei Chen, Anjie Peng, "How secure are the adversarial examples themselves?" 2022ICASSP, pp. 2879-2883 [pdf](https://ieeexplore.ieee.org/document/9747206)
+Hui Zeng, Kang Deng, Biwei Chen, Anjie Peng, "How secure are the adversarial examples themselves?" 2022ICASSP, pp. 2879-2883 [pdf](https://ieeexplore.ieee.org/document/9747206) [code](https://github.com/zengh5/adversarial-example-security)
 
 Zhi Lin, Anjie Peng, Rong Wei, Wenxin Yu, Hui Zeng, "An enhanced transferable adversarial attack of scale-invariant methods," 2022 IEEE International Conference on Image Processing (ICIP), pp. 3788-3792. [pdf](https://ieeexplore.ieee.org/document/9897429/)
 
@@ -79,9 +79,9 @@ Anjie Peng, Chenggang Li, Ping Zhu, Zhiyuan Wu, Kun Wang, Hui Zeng and Wenxin Yu
 
 Zhi Lin, Anjie Peng, Hui Zeng, et al. "Boosting transferability of adversarial example via an enhanced EULER's method," 2023ICASSP, doi: 10.1109/ICASSP49357.2023.10096558 [pdf](https://ieeexplore.ieee.org/document/10096558/)
 
-Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Bayesian game,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
+Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Bayesian game,' to appear in 2023 IEEE International Conference on Image Processing (ICIP). [code](https://github.com/zengh5/AED_BGame)
 
-Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
+Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' to appear in 2023 IEEE International Conference on Image Processing (ICIP). [code](https://github.com/zengh5/Transferable_targeted_attack)
 
 Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
 
