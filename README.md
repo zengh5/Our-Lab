@@ -36,9 +36,9 @@ Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your f
 Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics, IWDW2020, Melbourne (online) 2020.11.25-27
 
 ### 1.5 Deepfake detection
-Tong Zhang, Anjie Peng, Hui Zeng, 'Ignored Details in Eyes: Exposing GAN-generated Faces by Sclera,' 2023ICONIP, pp 563–574, Changsha, session chair.
-Paper: https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43
-Code: https://github.com/10961020/Deepfake-detector-based-on-blood-vessels
+Tong Zhang, Anjie Peng, Hui Zeng, 'Ignored Details in Eyes: Exposing GAN-generated Faces by Sclera,' 2023ICONIP, pp 563–574, Changsha, session chair.  
+[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43)  
+[Code](https://github.com/10961020/Deepfake-detector-based-on-blood-vessels)
 
 ## 2 Anti-forensics and its countermeasure
 
