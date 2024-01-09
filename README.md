@@ -35,6 +35,10 @@ Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your f
 ### 1.4 Shooting parameter estimation
 Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics, IWDW2020, Melbourne (online) 2020.11.25-27
 
+### 1.5 Deepfake detection
+Tong Zhang, Anjie Peng, Hui Zeng, 'Ignored Details in Eyes: Exposing GAN-generated Faces by Sclera,' 2023ICONIP, pp 563–574, Changsha, session chair.
+Paper: https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43
+Code: https://github.com/10961020/Deepfake-detector-based-on-blood-vessels
 
 ## 2 Anti-forensics and its countermeasure
 
@@ -85,9 +89,10 @@ Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferabilit
 
 Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
 
-Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via feature space fine-tuning,' to appear in 2024 ICASSP. [code](https://github.com/zengh5/TA_feature_FT)
+Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via feature space fine-tuning,' to appear in 2024ICASSP. [code](https://github.com/zengh5/TA_feature_FT)
 
 ## Activity
-### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II 
-
+### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II   
 https://tianchi.aliyun.com/competition/entrance/531812/rankingList/0
+
+### In ChinaMFS2023, Tong Zhang won the excellent paper award.
