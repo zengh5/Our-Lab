@@ -1,7 +1,7 @@
 # Our-Lab
 
 ## Interest
-Video/image forensics, Game theory, adversarial sample detection
+Video/image forensics, Game theory, adversarial machine learning
 
 https://scholar.google.ca/citations?user=__LlM6MAAAAJ H-index: 11
 
@@ -84,6 +84,8 @@ Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Baye
 Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' to appear in 2023 IEEE International Conference on Image Processing (ICIP). [code](https://github.com/zengh5/Transferable_targeted_attack)
 
 Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
+
+Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via feature space fine-tuning,' to appear in 2024 ICASSP. [code](https://github.com/zengh5/TA_feature_FT)
 
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II 
