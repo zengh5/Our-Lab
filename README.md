@@ -5,9 +5,6 @@ Video/image forensics, Game theory, adversarial machine learning
 
 https://scholar.google.ca/citations?user=__LlM6MAAAAJ H-index: 11
 
-```diff
-+ this will be highlighted in green  
-
 ## Publication List
 
 ## 1. Video/image forensics 
@@ -92,9 +89,13 @@ Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferabilit
 
 Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
 
+Hui Zeng, Biwei Chen, Rongsong Yang, et al. "Towards undetectable adversarial examples: a steganographic perspective," 2023ICONIP, pp. 172–183. [code](https://github.com/zengh5/Undetectable-attack)
+
 Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via feature space fine-tuning,' 2024ICASSP, pp. 4475–4479. [code](https://github.com/zengh5/TA_feature_FT) 
+
+`New` Qiang Wan, Biwei Chen, Anjie Peng, Hui Zeng, "A whale falls, all thrive: Mitigating attention gap to improve adversarial transferability," 2024ICPR, pp. 346–359. [code](https://github.com/britney-code/EIT-attack)  
  
-<span style="color: #007BFF;">New</span> Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' to appear in 2025AAAI. [code](https://github.com/zengh5/Everywhere_Attack)
+`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' to appear in 2025AAAI. [code](https://github.com/zengh5/Everywhere_Attack)
 
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II   
