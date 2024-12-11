@@ -83,13 +83,15 @@ Anjie Peng, Chenggang Li, Ping Zhu, Zhiyuan Wu, Kun Wang, Hui Zeng and Wenxin Yu
 
 Zhi Lin, Anjie Peng, Hui Zeng, et al. "Boosting transferability of adversarial example via an enhanced EULER's method," 2023ICASSP, doi: 10.1109/ICASSP49357.2023.10096558 [pdf](https://ieeexplore.ieee.org/document/10096558/)
 
-Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Bayesian game,' to appear in 2023 IEEE International Conference on Image Processing (ICIP). [code](https://github.com/zengh5/AED_BGame)
+Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Bayesian game,' 2023 IEEE International Conference on Image Processing (ICIP), pp. 1710–1714. [code](https://github.com/zengh5/AED_BGame)
 
-Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' to appear in 2023 IEEE International Conference on Image Processing (ICIP). [code](https://github.com/zengh5/Transferable_targeted_attack)
+Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' 2023 IEEE International Conference on Image Processing (ICIP), pp. 3309–3313. [code](https://github.com/zengh5/Transferable_targeted_attack)
 
 Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
 
-Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via feature space fine-tuning,' to appear in 2024ICASSP. [code](https://github.com/zengh5/TA_feature_FT)
+Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via feature space fine-tuning,' 2024ICASSP, pp. 4475–4479. [code](https://github.com/zengh5/TA_feature_FT) 
+ 
+Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' to appear in 2025AAAI. [code](https://github.com/zengh5/Everywhere_Attack)
 
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II   
