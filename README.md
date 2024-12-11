@@ -37,8 +37,7 @@ Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional N
 
 ### 1.5 Deepfake detection
 Tong Zhang, Anjie Peng, Hui Zeng, 'Ignored Details in Eyes: Exposing GAN-generated Faces by Sclera,' 2023ICONIP, pp 563–574, Changsha, session chair.  
-[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43)  
-[Code](https://github.com/10961020/Deepfake-detector-based-on-blood-vessels)
+[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43)  [Code](https://github.com/10961020/Deepfake-detector-based-on-blood-vessels)
 
 ## 2 Anti-forensics and its countermeasure
 
