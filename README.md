@@ -5,6 +5,9 @@ Video/image forensics, Game theory, adversarial machine learning
 
 https://scholar.google.ca/citations?user=__LlM6MAAAAJ H-index: 11
 
+```diff
++ this will be highlighted in green  
+
 ## Publication List
 
 ## 1. Video/image forensics 
