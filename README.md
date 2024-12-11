@@ -36,8 +36,7 @@ Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your f
 Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics, IWDW2020, Melbourne (online) 2020.11.25-27
 
 ### 1.5 Deepfake detection
-Tong Zhang, Anjie Peng, Hui Zeng, 'Ignored Details in Eyes: Exposing GAN-generated Faces by Sclera,' 2023ICONIP, pp 563–574, Changsha, session chair.  
-[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43)  [Code](https://github.com/10961020/Deepfake-detector-based-on-blood-vessels)
+Tong Zhang, Anjie Peng, Hui Zeng, 'Ignored Details in Eyes: Exposing GAN-generated Faces by Sclera,' 2023ICONIP, pp 563–574, Changsha, session chair. [Paper](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43)  [Code](https://github.com/10961020/Deepfake-detector-based-on-blood-vessels)
 
 ## 2 Anti-forensics and its countermeasure
 
@@ -91,6 +90,8 @@ Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribu
 Hui Zeng, Biwei Chen, Rongsong Yang, et al. "Towards undetectable adversarial examples: a steganographic perspective," 2023ICONIP, pp. 172–183. [code](https://github.com/zengh5/Undetectable-attack)
 
 Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via feature space fine-tuning,' 2024ICASSP, pp. 4475–4479. [code](https://github.com/zengh5/TA_feature_FT) 
+
+`New` A. Peng; G. Shi; Z. Lin; H. Zeng; X. Yang, "Approximating High-order Adversarial Attacks Using Runge-Kutta Methods," 2024, Tsinghua Science and Technology.  
 
 `New` Qiang Wan, Biwei Chen, Anjie Peng, Hui Zeng, "A whale falls, all thrive: Mitigating attention gap to improve adversarial transferability," 2024ICPR, pp. 346–359. [code](https://github.com/britney-code/EIT-attack)  
  
