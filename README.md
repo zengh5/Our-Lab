@@ -97,6 +97,8 @@ Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via featur
  
 `New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' to appear in 2025AAAI. [code](https://github.com/zengh5/Everywhere_Attack)
 
+`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability,' to appear in 2025ICASSP. [code](https://github.com/zengh5/Avg_FT)
+
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II   
 https://tianchi.aliyun.com/competition/entrance/531812/rankingList/0
