@@ -22,20 +22,18 @@ Zeng, Hui and Zhan, Yifeng and Kang, Xiangui and Lin, Xiaodan, “Image splicing
 
 Zeng, Hui, Peng, Anjie, and Lin, Xiaodan, “Exposing Image splicing with inconsistent sensor noise levels”, Multimedia Tools and Applications, 2020, 79: 26139—26154. [pdf](https://link.springer.com/article/10.1007/s11042-020-09280-z) 
 
+Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics, IWDW2020, Melbourne (online) 2020.11.25-27
 
 ### 1.3 Image processing history analysis
 Morteza Darvish Morshedi Hosseini, Miroslav Goljan, and Hui Zeng, "Semi-Blind Image Resampling Factor Estimation for PRNU Computation", in Proc. IS&T Int’l. Symp. on Electronic Imaging: Media Watermarking, Security, and Forensics, 2020, pp 77-1 - 77-11 [pdf](https://library.imaging.org/ei/articles/32/4/art00008)
 
-Hui Zeng, Morteza Darvish Morshedi Hosseini, and Miroslav Goljan, Replacing DWT with DTCWT in blind image rotation angle estimation, EI2021. [pdf](https://library.imaging.org/ei/articles/33/4/art00006)  
+Hui Zeng, Morteza Darvish Morshedi Hosseini, and Miroslav Goljan, Replacing DWT with DTCWT in blind image rotation angle estimation, in Proc. IS&T Int’l. Symp. on Electronic Imaging: Media Watermarking, Security, and Forensics, 2021. [pdf](https://library.imaging.org/ei/articles/33/4/art00006)  
 
 Kun Yu, Rongsong Yang, Hui Zeng, and Anjie Peng, "Joint estimation of image rotation angle and scaling factor", APSIPA2021, pp. 1716—1721.
 
-Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," 2023ICASSP2023. doi: 10.1109/ICASSP49357.2023.10095317 [pdf](https://ieeexplore.ieee.org/document/10095317/) [code](https://github.com/zengh5/Rotation_angle_estimation_harmonic)
+Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your friend: improving image rotation angle estimation with harmonics," 2023ICASSP. doi: 10.1109/ICASSP49357.2023.10095317 [pdf](https://ieeexplore.ieee.org/document/10095317/) [code](https://github.com/zengh5/Rotation_angle_estimation_harmonic)
 
-### 1.4 Shooting parameter estimation
-Hui Zeng, Kang Deng, Anjie Peng, ISO Setting Estimation Based on Convolutional Neural Network and Its Application in Image Forensics, IWDW2020, Melbourne (online) 2020.11.25-27
-
-### 1.5 Deepfake detection
+### 1.4 Deepfake detection
 Tong Zhang, Anjie Peng, Hui Zeng, 'Ignored Details in Eyes: Exposing GAN-generated Faces by Sclera,' 2023ICONIP, pp 563–574, Changsha, session chair. [Paper](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43)  [Code](https://github.com/10961020/Deepfake-detector-based-on-blood-vessels)
 
 ## 2 Anti-forensics and its countermeasure
@@ -45,7 +43,7 @@ Zeng, Hui and Chen, Jiansheng and Kang, Xiangui and Zeng, Wenjun, “Removing ca
 
 Wu, Jianyuan and Wang, Zheng and Zeng, Hui and Kang, Xiangui, “Multiple-Operation Image Anti-Forensics with WGAN-GP Framework”, 2019 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), pp. 1303-1307, 2019, IEEE
 
-Zeng, Hui, Peng, Anjie, and Kang, Xiangui, "Hiding traces of camera anonymization by Poisson blending“ Accepted by ICAIS2020
+Zeng, Hui, Peng, Anjie, and Kang, Xiangui, "Hiding traces of camera anonymization by Poisson blending“ International Conference on Artificial Intelligence and Security (ICAIS2020), pp. 98–108, [paper](https://link.springer.com/chapter/10.1007/978-3-030-57881-7_9)
 
 ### 2.2 Countermeasure and game theory analysis
 Zeng, Hui and Kang, Xiangui and Huang, Jiwu, “Mixed-strategy Nash equilibrium in the camera source identification game”, 2013 IEEE International Conference on Image Processing, 4472-4476 [pdf](https://ieeexplore.ieee.org/document/6738921/)
@@ -85,7 +83,7 @@ Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Baye
 
 Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' 2023 IEEE International Conference on Image Processing (ICIP), pp. 3309–3313. [code](https://github.com/zengh5/Transferable_targeted_attack)
 
-Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' to appear in 2023 IEEE International Conference on Image Processing (ICIP).
+Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' 2023 IEEE International Conference on Image Processing (ICIP), pp. 3439–3443.
 
 Hui Zeng, Biwei Chen, Rongsong Yang, et al. "Towards undetectable adversarial examples: a steganographic perspective," 2023ICONIP, pp. 172–183. [code](https://github.com/zengh5/Undetectable-attack)
 
