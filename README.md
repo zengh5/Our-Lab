@@ -76,17 +76,17 @@ Zhi Lin, Anjie Peng, Rong Wei, Wenxin Yu, Hui Zeng, "An enhanced transferable ad
 
 Anjie Peng, Chenggang Li, Ping Zhu, Xiaofang Huang, Hui Zeng and Wenxin Yu, "Countering the Anti-detection Adversarial Attacks", 2022ICONIP, [paper](https://doi.org/10.1007/978-981-99-1639-9_41)
 
-Anjie Peng, Chenggang Li, Ping Zhu, Zhiyuan Wu, Kun Wang, Hui Zeng and Wenxin Yu, "Effect of Image Down-sampling on Detection of Adversarial Examples", 2022ICONIP, paper(https://doi.org/10.1007/978-981-99-1639-9_46)
+Anjie Peng, Chenggang Li, Ping Zhu, Zhiyuan Wu, Kun Wang, Hui Zeng and Wenxin Yu, "Effect of Image Down-sampling on Detection of Adversarial Examples", 2022ICONIP, [paper](https://doi.org/10.1007/978-981-99-1639-9_46)
 
 Zhi Lin, Anjie Peng, Hui Zeng, et al. "Boosting transferability of adversarial example via an enhanced EULER's method," 2023ICASSP, doi: 10.1109/ICASSP49357.2023.10096558 [pdf](https://ieeexplore.ieee.org/document/10096558/)
 
-Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Bayesian game,' 2023 IEEE International Conference on Image Processing (ICIP), pp. 1710–1714. [code](https://github.com/zengh5/AED_BGame)
+Hui Zeng, Biwei Chen, Kang Deng, Anjie Peng, 'Adversarial example detection Bayesian game,' 2023 IEEE International Conference on Image Processing (ICIP), pp. 1710–1714. [paper](https://ieeexplore.ieee.org/document/10222129) [code](https://github.com/zengh5/AED_BGame)
 
-Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' 2023 IEEE International Conference on Image Processing (ICIP), pp. 3309–3313. [code](https://github.com/zengh5/Transferable_targeted_attack)
+Hui Zeng, Tong Zhang, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via suppressing high-confidence labels,' 2023ICIP, pp. 3309–3313. [paper](https://ieeexplore.ieee.org/document/10222841) [code](https://github.com/zengh5/Transferable_targeted_attack)
 
-Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' 2023 IEEE International Conference on Image Processing (ICIP), pp. 3439–3443. [paper](https://ieeexplore.ieee.org/document/10222034)
+Zhi Lin, Anjie Peng, Hui Zeng, Kaijun Wu, Wenxin Yu, 'An enhanced neuron attribution-based attack via pixel dropping,' 2023ICIP, pp. 3439–3443. [paper](https://ieeexplore.ieee.org/document/10222034)
 
-Hui Zeng, Biwei Chen, Rongsong Yang, et al. "Towards undetectable adversarial examples: a steganographic perspective," 2023ICONIP, pp. 172–183. [code](https://github.com/zengh5/Undetectable-attack)
+Hui Zeng, Biwei Chen, Rongsong Yang, et al. "Towards undetectable adversarial examples: a steganographic perspective," 2023ICONIP, pp. 172–183. [paper](https://link.springer.com/chapter/10.1007/978-981-99-8070-3_14) [code](https://github.com/zengh5/Undetectable-attack)
 
 Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via feature space fine-tuning,' 2024ICASSP, pp. 4475–4479. [paper](https://ieeexplore.ieee.org/document/10446654) [code](https://github.com/zengh5/TA_feature_FT) 
 
