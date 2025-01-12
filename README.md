@@ -91,7 +91,7 @@ Hui Zeng, Biwei Chen, Rongsong Yang, et al. "Towards undetectable adversarial ex
 Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via feature space fine-tuning,' 2024ICASSP, pp. 4475–4479. [paper](https://ieeexplore.ieee.org/document/10446654) [code](https://github.com/zengh5/TA_feature_FT) 
 
 `New` A. Peng; G. Shi; Z. Lin; H. Zeng; X. Yang, "Approximating High-order Adversarial Attacks Using Runge-Kutta Methods," 2024, Tsinghua Science and Technology. [paper](https://www.sciopen.com/article/10.26599/TST.2024.9010154)  
-p
+
 `New` Qiang Wan, Biwei Chen, Anjie Peng, Hui Zeng, "A whale falls, all thrive: Mitigating attention gap to improve adversarial transferability," 2024ICPR, pp. 346–359. [paper](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_23) [code](https://github.com/britney-code/EIT-attack)  
  
 `New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' to appear in 2025AAAI. [code](https://github.com/zengh5/Everywhere_Attack)
