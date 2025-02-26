@@ -5,6 +5,9 @@ Video/image forensics, Game theory, adversarial machine learning
 
 https://scholar.google.ca/citations?user=__LlM6MAAAAJ H-index: 12
 
+## How to reach me? 
+zengh5atmail2.sysu.edu.cn, we have a few PG positions (either international or local) until the end of May, 2025.
+
 ## Publication List
 
 ## 1. Video/image forensics 
