@@ -97,9 +97,13 @@ Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via featur
 
 `New` Qiang Wan, Biwei Chen, Anjie Peng, Hui Zeng, "A whale falls, all thrive: Mitigating attention gap to improve adversarial transferability," 2024ICPR, pp. 346–359. [paper](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_23) [code](https://github.com/britney-code/EIT-attack)  
  
-`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' to appear in 2025AAAI. [code](https://github.com/zengh5/Everywhere_Attack)
+`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' 2025AAAI. [code](https://github.com/zengh5/Everywhere_Attack) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33061)
 
-`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability,' to appear in 2025ICASSP. [code](https://github.com/zengh5/Avg_FT)
+`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability,' to appear in 2025ICASSP. [code](https://github.com/zengh5/Avg_FT) [paper](https://ieeexplore.ieee.org/document/10890045/) 
+
+`New` Weinan Zhang, Sanshuai Cui, Qi Zhang, Biwei Chen, Hui Zeng, Qi Zhong, 'Hierarchical Feature Fusion and Enhanced Attention Mechanism for Robust GAN-Generated Images Detection,' to appear in Mathematics. 
+
+`New` Qiang Wan, Sanshuai Cui, Anjie Peng, Hui Zeng, Rong Wei, 'Boosting Adversarial Transferability by Constructing Adversarial Trajectories,' to appear in 2025ICME.  
 
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II   
