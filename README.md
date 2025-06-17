@@ -39,7 +39,7 @@ Kun Yu, M. D. M. Hosseini, A. Peng, Hui Zeng, M. Goljan, "Make your enemy your f
 ### 1.4 Deepfake detection
 Tong Zhang, Anjie Peng, Hui Zeng, 'Ignored Details in Eyes: Exposing GAN-generated Faces by Sclera,' 2023ICONIP, pp 563–574, Changsha, session chair. [Paper](https://link.springer.com/chapter/10.1007/978-981-99-8073-4_43)  [Code](https://github.com/10961020/Deepfake-detector-based-on-blood-vessels)  
 
-`New` Weinan Zhang, Sanshuai Cui, Qi Zhang, Biwei Chen, Hui Zeng, Qi Zhong, 'Hierarchical Feature Fusion and Enhanced Attention Mechanism for Robust GAN-Generated Images Detection,' to appear in Mathematics.  
+`New` Weinan Zhang, Sanshuai Cui, Qi Zhang, Biwei Chen, Hui Zeng, Qi Zhong, 'Hierarchical Feature Fusion and Enhanced Attention Mechanism for Robust GAN-Generated Images Detection,' Mathematics, 2025, 13(9), 1372.  
 
 ## 2 Anti-forensics and its countermeasure
 
@@ -99,9 +99,9 @@ Hui Zeng, Biwei Chen, Anjie Peng, 'Enhancing targeted transferability via featur
 
 `New` Qiang Wan, Biwei Chen, Anjie Peng, Hui Zeng, "A whale falls, all thrive: Mitigating attention gap to improve adversarial transferability," 2024ICPR, pp. 346–359. [paper](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_23) [code](https://github.com/britney-code/EIT-attack)  
  
-`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' 2025AAAI. [code](https://github.com/zengh5/Everywhere_Attack) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33061)
+`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' Proceedings of the AAAI Conference on Artificial Intelligence, 2025, 39(9), 9789-9796. [code](https://github.com/zengh5/Everywhere_Attack) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33061)
 
-`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability,' to appear in 2025ICASSP. [code](https://github.com/zengh5/Avg_FT) [paper](https://ieeexplore.ieee.org/document/10890045/) 
+`New` Hui Zeng, Sanshuai Cui, Biwei Chen, Anjie Peng, 'Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability,' IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1-5. [code](https://github.com/zengh5/Avg_FT) [paper](https://ieeexplore.ieee.org/document/10890045/) 
 
 `New` Qiang Wan, Sanshuai Cui, Anjie Peng, Hui Zeng, Rong Wei, 'Boosting Adversarial Transferability by Constructing Adversarial Trajectories,' to appear in 2025ICME.  
 
