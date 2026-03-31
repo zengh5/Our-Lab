@@ -3,10 +3,10 @@
 ## Interest
 Video/image forensics, Game theory, adversarial machine learning
 
-https://scholar.google.ca/citations?user=__LlM6MAAAAJ H-index: 12
+https://scholar.google.ca/citations?user=__LlM6MAAAAJ H-index: 13
 
 ## How to reach me? 
-zengh5atmail2.sysu.edu.cn, we have a few PG positions (either international or local) until the end of May, 2025.
+zengh5atmail2.sysu.edu.cn, we have a few PG positions (either international or local) until the end of May, 2026.
 
 ## Publication List
 
@@ -99,11 +99,16 @@ A. Peng, G. Shi, Z. Lin, H. Zeng, X. Yang, "Approximating High-order Adversarial
 
 Qiang Wan, B. Chen, A. Peng, Hui Zeng, "A whale falls, all thrive: Mitigating attention gap to improve adversarial transferability," 2024ICPR, pp. 346–359. [paper](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_23) [code](https://github.com/britney-code/EIT-attack)  
  
-`New` Hui Zeng, S. Cui, B. Chen, A. Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' Proceedings of the AAAI Conference on Artificial Intelligence, 2025, 39(9), 9789–9796. [code](https://github.com/zengh5/Everywhere_Attack) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33061)
+Hui Zeng, S. Cui, B. Chen, A. Peng, 'Everywhere Attack: Attacking Locally and Globally to Boost Targeted Transferability,' Proceedings of the AAAI Conference on Artificial Intelligence, 2025, 39(9), 9789–9796. [code](https://github.com/zengh5/Everywhere_Attack) [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33061)
 
-`New` Hui Zeng, S. Cui, B. Chen, A. Peng, 'Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability,' IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1–5. [code](https://github.com/zengh5/Avg_FT) [paper](https://ieeexplore.ieee.org/document/10890045/) 
+Hui Zeng, S. Cui, B. Chen, A. Peng, 'Two Heads Are Better Than One: Averaging along Fine-Tuning to Improve Targeted Transferability,' IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Hyderabad, India, 2025, pp. 1–5. [code](https://github.com/zengh5/Avg_FT) [paper](https://ieeexplore.ieee.org/document/10890045/) 
 
-`New` Qiang Wan, S. Cui, A. Peng, Hui Zeng, R. Wei, 'Boosting Adversarial Transferability by Constructing Adversarial Trajectories,' to appear in 2025ICME.  
+Qiang Wan, S. Cui, A. Peng, Hui Zeng, R. Wei, 'Boosting Adversarial Transferability by Constructing Adversarial Trajectories,' 2025ICME.  
+
+`New` Qiang Wan, Hui Zeng, A. Peng, 'Enhancing Heterogeneous Model Transferability via Constrained Möbius Attack,' Pattern Recognition, 11329, 2026
+
+`New` S Zhao, Z Liang, X Yang, H Gao, A Peng, H Zeng, 'ObjectAdv: Object-Level Unrestricted Adversarial Attacks via Diffusion Models' , 2026AAAI.
+
 
 ## Activity
 ### In AI security Challenge, we won the 2nd prize in track I, and the 34th prize in track II   
